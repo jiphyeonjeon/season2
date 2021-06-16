@@ -16,6 +16,5 @@
 <!-- 예시 -->
 <!-- - 01 : Long Short-Term Memory
 	> - [Paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735), [Video](https://youtu.be/HHKSCkPEQfw), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/beginners/presentation/01.%20LSTM%20논문%20리뷰%20(석리님).pdf)
-	> - *S. Hochreiter, J. Schmidhuber,  Neural Computation 1997*
 	> - Keywords: LSTM, Neural Network
-	> - Presentor : 송석리 -->
+	> - Team : 고현웅(발표), 김대웅, 이윤재 -->
