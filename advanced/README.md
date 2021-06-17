@@ -1,5 +1,5 @@
 # Jiphyeonjeon Season 2 - Advanced Group
-* 수정 및 업데이트 요청 : [구혜연](https://github.com/HyeyeonKoo)(go8476@naver.com), [이름](url)(이메일)
+* 수정 및 업데이트 요청 : [구혜연](https://github.com/HyeyeonKoo)(go8476@naver.com), [이윤재](https://github.com/gityunjae)(yunjae2005@gmail.com) [이름](url)(이메일)
 * 최신반 스케쥴: [구글 시트](https://docs.google.com/spreadsheets/d/1pwkvIwf3T1bo2y7aXmSYPN6otlPKJl9kCJHaze0H3KY/edit#gid=369545430)
 <br><br>
 
