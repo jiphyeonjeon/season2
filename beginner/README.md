@@ -1,5 +1,5 @@
 # Jiphyeonjeon Season 2 - Beginners' Group
-* 수정 및 업데이트 요청 : [고현웅](https://github.com/hyunwoongko)(gusdnd852@naver.com), [이름](url)(이메일)
+* 수정 및 업데이트 요청 : [고현웅](https://github.com/hyunwoongko)(gusdnd852@naver.com), [박은빈](https://github.com/42cosmos)(cosmos.42@icloud.com)
 * 초급반 스케쥴: [구글 시트](https://docs.google.com/spreadsheets/d/1pwkvIwf3T1bo2y7aXmSYPN6otlPKJl9kCJHaze0H3KY/edit#gid=0)
 <br><br>
 
@@ -13,8 +13,7 @@
 <br><br>
 
 ## Presentations
-<!-- 예시 -->
-<!-- - 01 : Long Short-Term Memory
-	> - [Paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735), [Video](https://youtu.be/HHKSCkPEQfw), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/beginners/presentation/01.%20LSTM%20논문%20리뷰%20(석리님).pdf)
-	> - Keywords: LSTM, Neural Network
-	> - Team : 고현웅(발표), 김대웅, 이윤재 -->
+- 01: 텍스트 전처리 전반부 1 ~ 5 챕터
+  >- [Video](https://youtu.be/2bbIxIscfCA), [Presentation](./presentations/season2-1조-텍스트전처리_전반부.pdf)
+  >- Keywords: Tokenization, Cleaning, Normalization, Stemming, Lemmatization, Stopword, Regular Expression
+  >- Team: 김경환, 박은빈, 신승배
