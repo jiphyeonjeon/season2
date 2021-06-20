@@ -1,5 +1,5 @@
 # Jiphyeonjeon Season 2 - Intermediate Group
-* 수정 및 업데이트 요청 : [김도은](https://github.com/kimdanny)(dannykim153@gmail.com), [정환석](https://github.com/jayden5744)(jhs0256@gmail.com), [이름](url)(이메일)
+* 수정 및 업데이트 요청 : [김도은](https://github.com/kimdanny)(dannykim153@gmail.com), [정환석](https://github.com/jayden5744)(jhs0256@gmail.com), [진명훈](https://github.com/jinmang2)(jinmang2@gmail.com)
 * 중급반 스케쥴: [구글 시트](https://docs.google.com/spreadsheets/d/1pwkvIwf3T1bo2y7aXmSYPN6otlPKJl9kCJHaze0H3KY/edit#gid=697987516)
 <br><br>
 
