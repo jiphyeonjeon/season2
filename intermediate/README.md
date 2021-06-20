@@ -9,3 +9,7 @@
 	> - [Paper](https://www.mitpressjournals.org/doi/abs/10.1162/neco.1997.9.8.1735), [Video](https://youtu.be/HHKSCkPEQfw), [Presentation](https://github.com/jiphyeonjeon/nlp-review/blob/main/beginners/presentation/01.%20LSTM%20논문%20리뷰%20(석리님).pdf)
 	> - Keywords: LSTM, Neural Network
 	> - Team : 고현웅(발표), 김대웅, 이윤재 -->
+- 01: Google's Neural Machine Translation
+  >- [Video](https://www.youtube.com/watch?v=5rKKJcsL8fU), [Presentation](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_season2_gnmt_중급_1조.pdf)
+  >- Keywords: NMT, Seq2seq, Wordpiece Model, Parallelism
+  >- Team: 진명훈(발표), 송지현, 지우석
