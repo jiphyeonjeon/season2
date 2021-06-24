@@ -1,5 +1,5 @@
 # Jiphyeonjeon Season 2 - Beginners' Group
-* 수정 및 업데이트 요청 : [고현웅](https://github.com/hyunwoongko)(gusdnd852@naver.com), [박은빈](https://github.com/42cosmos)(cosmos.42@icloud.com)
+* 수정 및 업데이트 요청 : [고현웅](https://github.com/hyunwoongko)(gusdnd852@naver.com), [박은빈](https://github.com/42cosmos)(cosmos.42@icloud.com), [양수영](https://github.com/aiaaua)(yse00800@gmail.com)
 * 초급반 스케쥴: [구글 시트](https://docs.google.com/spreadsheets/d/1pwkvIwf3T1bo2y7aXmSYPN6otlPKJl9kCJHaze0H3KY/edit#gid=0)
 <br><br>
 
