@@ -13,3 +13,7 @@
   >- [Video](https://www.youtube.com/watch?v=5rKKJcsL8fU), [Presentation](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_season2_gnmt_중급_1조.pdf)
   >- Keywords: NMT, Seq2seq, Wordpiece Model, Parallelism
   >- Team: 진명훈(발표), 송지현, 지우석
+- 02: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+  > - [Paper](https://arxiv.org/abs/1810.04805), [Video](https://youtu.be/moCNw4j2Fkw), [Slides](https://docs.google.com/presentation/d/1gLLZfxBP2NvZu7yIDggXCywLa-Uf36x172E8-u5Hqeo/edit?usp=sharing), [Demo Code(tokenizer & mlm)](https://gist.github.com/eubinecto/bd053cc3ac3f6cdcfa4f32e9a882a34b)
+  > - Keywords: BERT, trasnformer, MLM, NSP, Pre-training, Fine-tuning
+  > - Team: 김유빈, 이승미, 이정섭 - 다같이 발표 :)
