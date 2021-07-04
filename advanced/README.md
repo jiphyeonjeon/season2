@@ -15,6 +15,6 @@
   >- Team: 김백수, 이다인, 조주현
 
 - 03: TOD-BERT Pre-trained Natural Language Understanding for Task-Oriented Dialogue
-  >- [Video](https://youtu.be/qGoE0naEuls), [Presentation](https://github.com/jiphyeonjeon/season2/blob/main/advanced/presentations/Season2-3%EC%A1%B0-TOD-BERT.pdf)
+  >- [Video](https://youtu.be/qGoE0naEuls), [Presentation](https://github.com/jiphyeonjeon/season2/blob/main/advanced/presentations/Season2-3조-TOD-BERT.pdf)
   >- Keywords: BERT, Tasl Oriented Doalogue
   >- Team: 이정훈, 박동주, 이인환, 조소영
