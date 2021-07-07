@@ -7,4 +7,19 @@ Jiphyeonjeon Season 2
 <br><br>
 
 ## Maintainers
-[Hyunwoong Ko](https://github.com/hyunwoongko)
+[고현웅](https://github.com/hyunwoongko), 
+[구혜연](https://github.com/HyeyeonKoo), 
+[김도은](https://github.com/kimdanny), 
+[민지웅](https://github.com/JejuWayfarer), 
+[박은빈](https://github.com/42cosmos), 
+[양수영](https://github.com/aiaaua), 
+[이윤재](https://github.com/gityunjae), 
+[이정섭](), 
+[정환석](https://github.com/jayden5744), 
+[진명훈](https://github.com/jinmang2)
+
+
+
+
+
+
