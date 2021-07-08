@@ -21,3 +21,7 @@
   > - [Paper](https://arxiv.org/abs/1611.04558), [Video](https://youtu.be/3lUIyj7VTmE), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_season2_gnmt_중급_1조.pdf)
   > - Keywords: Multilingual, Zeroshot Translation
   > - Team: 최석웅(발표), 주완, 진승정
+- 04: Task-oriented Dialogue System에 대한 넓고 얕은 지식들
+  > - [Video](https://youtu.be/_KngLJQj2T0), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/중급_4조_TOD_survey.pdf)
+  > - Keywords: Task-oriented Dialogue System, NLU, Dialogue Manager, NLG, Knowledge Graph
+  > - Team: 김도은(발표), 금빛나(발표), 김종우
