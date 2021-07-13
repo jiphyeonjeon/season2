@@ -18,3 +18,5 @@
   >- [Video](https://youtu.be/qGoE0naEuls), [Presentation](./presentations/Season2-3조-TOD-BERT.pdf)
   >- Keywords: BERT, Tasl Oriented Doalogue
   >- Team: 이정훈, 박동주, 이인환, 조소영
+
+- 05 : REALM : Retrieval-Augmented Language Model Pre-Training
