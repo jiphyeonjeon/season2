@@ -26,6 +26,6 @@
   > - Keywords: Task-oriented Dialogue System, NLU, Dialogue Manager, NLG, Knowledge Graph
   > - Team: 김도은(발표), 금빛나(발표), 김종우
 - 05: Cross-lingual Language Model Pretraining
-  > - [Paper](https://arxiv.org/abs/1901.07291), [Video](https://www.youtube.com/watch?v=M6RrQaWTLKU), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_5조_Cross-lingual Language Model Pretraining.pdf)
+  > - [Paper](https://arxiv.org/abs/1901.07291), [Video](https://www.youtube.com/watch?v=M6RrQaWTLKU), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_5조_Cross-lingual-Language-Model-Pretraining.pdf)
   > - Keywords: Cross-lingual, Pretraining, TLM, XNLI, Fine-tuning
   > - Team: 서덕진(발표), 정환석 , 최원석
