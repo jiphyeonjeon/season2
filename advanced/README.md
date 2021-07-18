@@ -19,6 +19,11 @@
   >- Keywords: BERT, Tasl Oriented Doalogue
   >- Team: 이정훈, 박동주, 이인환, 조소영
 
+- 04: Language ID in the Wild: Unexpected Challenges on the Path to a Thousand-Language Web Text Corpus
+  >- [Video](https://youtu.be/0eTWVn9Ye9o), [Presentation](./presentations/Season2-4조-LanguageID.pdf)
+  >- Keywords: Language ID, LangID, Large Text, Data, CCNet
+  >- Team: 박소희(발표), 김민현, 김성환
+
 - 05 : REALM : Retrieval-Augmented Language Model Pre-Training
   >- [Video](https://youtu.be/1gkH8x8nHEw), [Presentation](./presentations/Season2-5조-REALM.pdf)
   >- Keywords: BERT, Open-QA
