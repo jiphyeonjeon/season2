@@ -22,3 +22,8 @@
   >- [Video](https://youtu.be/1c8MP9hPt5c), [Presentation](./presentations/season2_2조_텍스트전처리_후반부.pdf)
   >- Keywords: Integer Encoding, Padding, One-Hot Encoding, Splitting Data, Text Preprocessing Tools for Korean Text
   >- Team: 이창훈, 이문형, 유예림 
+
+- 04: 카운트 기반의 단어 표현
+  >- [Video](https://youtu.be/zMgn0-tO0Nc), [Presentation](./presentations/season2_4조_카운트 기반의 단어 표현.pdf)
+  >- Keywords: Bag of Words, Document-Term Matrix, Term Frequency-Inverse Document Frequency  
+  >- Team: 기대현, 조다희, 홍다솔 
