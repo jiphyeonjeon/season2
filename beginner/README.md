@@ -25,18 +25,23 @@
 
 - 03: 언어 모델
 
-  >- [Video](#), [Presentation](./presentations/season2-3조_언어모델.pdf)
+  >- [Video](#), [Presentation](./presentations/season2-3조_언어모델.pdf)
   >- Keywords: Languagel Model, Statistical Languagel Model, SLM, n-gram
   >- Team: 최수진, 허영운, 조정원
 
 - 04: 카운트 기반의 단어 표현
-  >- [Video](https://youtu.be/zMgn0-tO0Nc), [Presentation](./presentations/season2-4조_카운트 기반의 단어 표현.pdf)
+  >- [Video](https://youtu.be/zMgn0-tO0Nc), [Presentation](./presentations/season2-4조_카운트기반단어표현.pdf)
   >- Keywords: Bag of Words, Document-Term Matrix, Term Frequency-Inverse Document Frequency  
   >- Team: 기대현, 조다희, 홍다솔
   
 - 05: 벡터 유사도
 
-  >- [Video](#), [Presentation](./presentations/season2-5조_벡터유사도.pdf)
+  >- [Video](#), [Presentation](./presentations/season2-5조_벡터유사도.pdf)
   >- Keywords: Vector Similarity, Cosine Similarity, Euclidean distance
   >- Team: 조성철, 지현구, 박서영
 
+- 06: 토픽 모델링
+
+  >- [Video](https://youtu.be/PyuCL7AyuBg), [Presentation](./presentations/season2-6조-토픽모델링.pdf)
+  >- Keywords: Latent Semantic Analysis, Singular Value Decomposition, Latent Dirichlet Allocation
+  >- Team: 김준태, 박준현(발표자), 전인성
