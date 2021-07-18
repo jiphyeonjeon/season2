@@ -19,11 +19,24 @@
   >- Team: 김경환, 박은빈, 신승배
 
 - 02: 텍스트 전처리 후반부 6 ~ 10 챕터
-  >- [Video](https://youtu.be/1c8MP9hPt5c), [Presentation](./presentations/season2_2조_텍스트전처리_후반부.pdf)
+  >- [Video](https://youtu.be/1c8MP9hPt5c), [Presentation](./presentations/season2-2조_텍스트전처리_후반부.pdf)
   >- Keywords: Integer Encoding, Padding, One-Hot Encoding, Splitting Data, Text Preprocessing Tools for Korean Text
   >- Team: 이창훈, 이문형, 유예림 
 
+- 03: 언어 모델
+
+  >- [Video](#), [Presentation](./presentations/season2-3조_언어모델.pdf)
+  >- Keywords: Languagel Model, Statistical Languagel Model, SLM, n-gram
+  >- Team: 최수진, 허영운, 조정원
+
 - 04: 카운트 기반의 단어 표현
-  >- [Video](https://youtu.be/zMgn0-tO0Nc), [Presentation](./presentations/season2_4조_카운트 기반의 단어 표현.pdf)
+  >- [Video](https://youtu.be/zMgn0-tO0Nc), [Presentation](./presentations/season2-4조_카운트 기반의 단어 표현.pdf)
   >- Keywords: Bag of Words, Document-Term Matrix, Term Frequency-Inverse Document Frequency  
-  >- Team: 기대현, 조다희, 홍다솔 
+  >- Team: 기대현, 조다희, 홍다솔
+  
+- 05: 벡터 유사도
+
+  >- [Video](#), [Presentation](./presentations/season2-5조_벡터유사도.pdf)
+  >- Keywords: Vector Similarity, Cosine Similarity, Euclidean distance
+  >- Team: 조성철, 지현구, 박서영
+
