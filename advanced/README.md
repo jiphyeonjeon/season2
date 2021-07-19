@@ -28,3 +28,10 @@
   >- [Video](https://youtu.be/1gkH8x8nHEw), [Presentation](./presentations/Season2-5조-REALM.pdf)
   >- Keywords: BERT, Open-QA
   >- Team: 김대규, 모윤호, 원혜진(발표)
+
+* 06 : How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models
+
+  > * [Video](https://youtu.be/bV9WWRyRBt4), [Presentation](./presentations/Season2-6조-How Good is Your Tokenizer.pdf)
+  > * Keywords: Tokenizer, Multilingual, Monolingual
+  > * Team: 김한민, 이유경(발표), 지승현
+
