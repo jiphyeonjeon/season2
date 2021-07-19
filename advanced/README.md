@@ -31,7 +31,7 @@
 
 * 06 : How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models
 
-  > * [Video](https://youtu.be/bV9WWRyRBt4), [Presentation](advanced/presentations/Season2-6조-How Good is Your Tokenizer.pdf) 
+  > * [Video](https://youtu.be/bV9WWRyRBt4), [Presentation](https://github.com/yukyunglee/season2/blob/044ef543abe85ff50590c398f0eaf8dce2424882/advanced/presentations/Season2-6%EC%A1%B0-How%20Good%20is%20Your%20Tokenizer.pdf) 
   > * Keywords: Tokenizer, Multilingual, Monolingual
   > * Team: 김한민, 이유경(발표), 지승현
 
