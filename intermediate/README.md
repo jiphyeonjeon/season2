@@ -29,7 +29,10 @@
   > - [Paper](https://arxiv.org/abs/1901.07291), [Video](https://www.youtube.com/watch?v=M6RrQaWTLKU), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_5조_Cross-lingual-Language-Model-Pretraining.pdf)
   > - Keywords: Cross-lingual, Pretraining, TLM, XNLI, Fine-tuning
   > - Team: 서덕진(발표), 정환석 , 최원석
-
+- 06: Semi-Supervised Sequence Modeling With Cross-View Training
+  > - [Paper](https://arxiv.org/pdf/1809.08370.pdf), [Video](https://youtu.be/PyripC5Jp_U), [Slides](https://github.com/catSirup/season2/blob/main/intermediate/presentations/%EC%A7%91%ED%98%84%EC%A0%842%EA%B8%B0_%EC%A4%91%EA%B8%89%EB%B0%98_6%EC%A1%B0_CVT.pdf)
+  > - Keywords: Cross-view training, CVT, semi-supervised, Sequence Modeling
+  > - Team: 김태형(발표), 양재우, 이다영
 - 07: What You Can Cram Into a Single $&!#* Vector: Probing Sentence Embeddings For Linguistc Properties
   > - [Paper](https://arxiv.org/abs/1805.01070v2), [Video](https://youtu.be/FavuvQKIzaU), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_season2_중급_7조_sentence_embeddings.pdf)
   > - Keywords: Probing Tasks, Sentence Embeddings
