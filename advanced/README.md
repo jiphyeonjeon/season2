@@ -35,3 +35,8 @@
   > * Keywords: Tokenizer, Multilingual, Monolingual
   > * Team: 김한민, 이유경(발표), 지승현
 
+- 07 : Survey of Document-level Relation Extraction
+
+  > * [Video](https://youtu.be/sp7N5y2Cpg0), [Presentation](./presentations/Season2-7조-Document-level%20Relation%20Extraction.pdf) 
+  > * Keywords: Document-level, Relation Extraction
+  > * Team: 이창희, 하헌진, 현지웅(발표)
