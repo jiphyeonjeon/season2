@@ -29,3 +29,8 @@
   > - [Paper](https://arxiv.org/abs/1901.07291), [Video](https://www.youtube.com/watch?v=M6RrQaWTLKU), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_5조_Cross-lingual-Language-Model-Pretraining.pdf)
   > - Keywords: Cross-lingual, Pretraining, TLM, XNLI, Fine-tuning
   > - Team: 서덕진(발표), 정환석 , 최원석
+
+- 07: What You Can Cram Into a Single $&!#* Vector: Probing Sentence Embeddings For Linguistc Properties
+  > - [Paper](https://arxiv.org/abs/1805.01070v2), [Video](https://youtu.be/FavuvQKIzaU), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_season2_중급_7조_sentence_embeddings.pdf)
+  > - Keywords: Probing Tasks, Sentence Embeddings
+  > - Team: 이성인(발표), 박석종, 소현지
