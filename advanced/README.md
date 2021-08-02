@@ -40,3 +40,9 @@
   > * [Video](https://youtu.be/sp7N5y2Cpg0), [Presentation](./presentations/Season2-7조-Document-level%20Relation%20Extraction.pdf) 
   > * Keywords: Document-level, Relation Extraction
   > * Team: 이창희, 하헌진, 현지웅(발표)
+
+- 08 : KM-BART: Knowledge Enhanced Multimodal BART for Visual Commonsense Generation
+
+  > * [Video](https://youtu.be/PMHw1emxOV0), [Presentation](./presentations/Season2-8조-Document-KM-BART.pdf)
+  > * Keywords: Multimodal, Visual Commonsense Generation, Knowledge-based Commonsense Generation
+  > * Team: 민지웅, 이나연, 임정환
