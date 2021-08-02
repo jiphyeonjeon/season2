@@ -45,3 +45,9 @@
   >- [Video](https://youtu.be/PyuCL7AyuBg), [Presentation](./presentations/season2-6조-토픽모델링.pdf)
   >- Keywords: Latent Semantic Analysis, Singular Value Decomposition, Latent Dirichlet Allocation
   >- Team: 김준태, 박준현(발표자), 전인성
+
+- 08: 머신 러닝 개요 후반부 5 ~ 9 챕터
+
+  >- [Video](https://www.youtube.com/watch?v=uuJAO5hXvmA), [Presentation](./presentations/season2-8조-머신러닝_후반부.pdf)
+  >- Keywords: Logistic Regression, Vector, Matrix, Softmax Regression
+  >- Team: 주혜신(발표자), 장영찬(발표자), 차경묵
