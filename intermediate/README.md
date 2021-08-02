@@ -38,6 +38,6 @@
   > - Keywords: Probing Tasks, Sentence Embeddings
   > - Team: 이성인(발표), 박석종, 소현지
 - 08: Improving Language Understanding by Generative Pre-Training & Language Models are Unsupervised Multitask Learners
-  > - [Paper1](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf), [Papaer2](http://www.persagen.com/files/misc/radford2019language.pdf), [Video](https://www.youtube.com/watch?v=7_mv1qvHnEg&t=735s), [Slides]
+  > - [Paper1](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf), [Papaer2](http://www.persagen.com/files/misc/radford2019language.pdf), [Video](https://www.youtube.com/watch?v=7_mv1qvHnEg&t=735s), [Slides](https://github.com/mooncy0421/season2/blob/688bd25c30ca3d5979fdbf24b1a8bf91ffce9dc9/intermediate/presentations/%EC%A7%91%ED%98%84%EC%A0%842%EA%B8%B0_%EC%A4%91%EA%B8%89%EB%B0%98_8%EC%A1%B0_GPT1%2C2.pptx)
   > - Keywords: GPT1, GPT2
   > - Team: 임진호(발표), 허치영(발표)
