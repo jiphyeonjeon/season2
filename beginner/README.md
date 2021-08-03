@@ -46,6 +46,13 @@
   >- Keywords: Latent Semantic Analysis, Singular Value Decomposition, Latent Dirichlet Allocation
   >- Team: 김준태, 박준현(발표자), 전인성
 
+- 07: 머신러닝 개요
+
+  >- [Video](https://youtu.be/Ke1PBYhxgC8), [Presentation](./presentations/season2_7조_머신러닝개요.pdf)
+  >- Keywords: Machine Learning, Confusion Matrix, Linear Regression, Auto Diff, Auto Gradient
+  >- Team: 최희욱(발표자), 김유진, 장호섭
+
+
 - 08: 머신 러닝 개요 후반부 5 ~ 9 챕터
 
   >- [Video](https://www.youtube.com/watch?v=uuJAO5hXvmA), [Presentation](./presentations/season2-8조-머신러닝_후반부.pdf)
