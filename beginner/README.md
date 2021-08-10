@@ -61,6 +61,6 @@
 
 - 0: 딥러닝 개요 전반부 1 ~ 5 챕터
 
-  >- [Video](https://youtu.be/lDQcanBiR1g), [Presentation](./presentations/season2-9조-딥러닝개요_전반부.pdf) 
+  >- [Video](https://youtu.be/6GERl_6DYl8), [Presentation](./presentations/season2-9조-딥러닝개요_전반부.pdf) 
   >- Keywords: Perceptron, Activation function, Loss function, Optimizer, BackPropagation, Overfitting, Gradient Vanishing & Exploding
   >- Team: 금예은(발표자), 이제일(발표자)
