@@ -59,7 +59,7 @@
   >- Keywords: Logistic Regression, Vector, Matrix, Softmax Regression
   >- Team: 주혜신(발표자), 장영찬(발표자), 차경묵
 
-- 0: 딥러닝 개요 전반부 1 ~ 5 챕터
+- 09: 딥러닝 개요 전반부 1 ~ 5 챕터
 
   >- [Video](https://youtu.be/6GERl_6DYl8), [Presentation](./presentations/season2-9조-딥러닝개요_전반부.pdf) 
   >- Keywords: Perceptron, Activation function, Loss function, Optimizer, BackPropagation, Overfitting, Gradient Vanishing & Exploding
