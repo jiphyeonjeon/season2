@@ -58,3 +58,9 @@
   >- [Video](https://www.youtube.com/watch?v=uuJAO5hXvmA), [Presentation](./presentations/season2-8조-머신러닝_후반부.pdf)
   >- Keywords: Logistic Regression, Vector, Matrix, Softmax Regression
   >- Team: 주혜신(발표자), 장영찬(발표자), 차경묵
+
+- 09: 딥러닝 개요 전반부 1 ~ 5 챕터
+
+  >- [Video](https://youtu.be/6GERl_6DYl8), [Presentation](./presentations/season2-9조-딥러닝개요_전반부.pdf) 
+  >- Keywords: Perceptron, Activation function, Loss function, Optimizer, BackPropagation, Overfitting, Gradient Vanishing & Exploding
+  >- Team: 금예은(발표자), 이제일(발표자)
