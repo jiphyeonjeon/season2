@@ -64,3 +64,9 @@
   >- [Video](https://youtu.be/6GERl_6DYl8), [Presentation](./presentations/season2-9조-딥러닝개요_전반부.pdf) 
   >- Keywords: Perceptron, Activation function, Loss function, Optimizer, BackPropagation, Overfitting, Gradient Vanishing & Exploding
   >- Team: 금예은(발표자), 이제일(발표자)
+ 
+ - 09: 딥러닝 개요 후반부 6 ~ 10 챕터
+
+  >- [Video](https://youtu.be/ceNum507t-c), [Presentation](./presentations/season2-10조-딥러닝개요-후반부.pdf) 
+  >- Keywords: Keras, Sequential API, Functional API, Subclassing API, MLP, n-gram, NNLM
+  >- Team: 차민기(발표자), 성민석(발표자), 김민정(발표자)
