@@ -46,3 +46,9 @@
   > * [Video](https://youtu.be/PMHw1emxOV0), [Presentation](./presentations/Season2-8조-Document-KM-BART.pdf)
   > * Keywords: Multimodal, Visual Commonsense Generation, Knowledge-based Commonsense Generation
   > * Team: 민지웅, 이나연, 임정환
+
+- 10 : ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation
+
+  > * [Video](https://www.youtube.com/watch?v=RKkL1vgZcfU), [Presentation](./presentations/Season2-10조-ERNIE3.0.pdf)
+  > * Keywords: Continual Multi-Paradigms Unified Pre-training Framework, Universal Representation Module, Task Specific Representation Module
+  > * Team: 김은희(발표), 박한솔, 구혜연
