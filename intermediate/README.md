@@ -42,6 +42,6 @@
   > - Keywords: GPT1, GPT2
   > - Team: 임진호(발표), 허치영(발표)
 - 10: ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
-  > - [Paper](https://arxiv.org/abs/2003.10555), [Video](https://youtu.be/LDHsL3tZewY), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전 중급 10조_ELECTRA.pdf)
+  > - [Paper](https://arxiv.org/abs/2003.10555), [Video](https://youtu.be/LDHsL3tZewY), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_10조_ELECTRA.pdf)
   > - Keywords: ELECTRA, small MLM, Generator, Discriminator
   > - Team: 고현지, 김병진, 차지윤 - 모두 발표
