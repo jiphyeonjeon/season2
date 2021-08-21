@@ -47,6 +47,12 @@
   > * Keywords: Multimodal, Visual Commonsense Generation, Knowledge-based Commonsense Generation
   > * Team: 민지웅, 이나연, 임정환
 
+- 09 : SimCSE: Simple Contrastive Learning of Sentence Embeddings
+
+  > * [Video](https://youtu.be/KpnQVuLjkso), [Presentation](./presentations/Season2-9조-SimCSE.pdf)
+  > * Keywords: Sentence embedding, Constrative learning, Dropout
+  > * Team: 김한길, 김선행, 옥창원
+
 - 10 : ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation
 
   > * [Video](https://www.youtube.com/watch?v=RKkL1vgZcfU), [Presentation](./presentations/Season2-10조-ERNIE3.0.pdf)
