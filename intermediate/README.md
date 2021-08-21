@@ -45,3 +45,7 @@
   > - [Paper](https://arxiv.org/abs/1603.06155), [Video](https://youtu.be/xZYXWBHoPwI), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_9조_A_Persona_based_Neural_Conversation_Model.pdf)
   > - Keywords: Persona, Open domain conversation
   > - Team: 이예진(발표), 구영은(발표), 전하훈
+- 10: ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+  > - [Paper](https://arxiv.org/abs/2003.10555), [Video](https://youtu.be/LDHsL3tZewY), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_10조_ELECTRA.pdf)
+  > - Keywords: ELECTRA, small MLM, Generator, Discriminator
+  > - Team: 고현지, 김병진, 차지윤 (모두 발표)
