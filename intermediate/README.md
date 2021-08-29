@@ -49,3 +49,7 @@
   > - [Paper](https://arxiv.org/abs/2003.10555), [Video](https://youtu.be/LDHsL3tZewY), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_10조_ELECTRA.pdf)
   > - Keywords: ELECTRA, small MLM, Generator, Discriminator
   > - Team: 고현지, 김병진, 차지윤 (모두 발표)
+- 11: Neural document summarization by jointly learning to score and select sentences
+  > - [Paper](https://arxiv.org/abs/1807.02305), [Video](https://youtu.be/re5Uhi2DuoU), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_11조_NEUSUM.pdf)
+  > - Keywords: NEUSUM, Extractive Summarization, document encoder, sentence extractor
+  > - Team: 김사무엘(발표), 박새란, 이승언
