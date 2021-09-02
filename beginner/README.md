@@ -73,6 +73,6 @@
   
 - 11: 순환 신경망 (Recurrent neural Network) ; 01) ~ 07) 
 
->- [Video](https://youtu.be/ceNum507t-c), [Presentation](./presentations/season2-11조-순환신경망(RNN).pdf) 
->- Keywords: Keras, RNN, LSTM, GRU, RNNLM, CHAR-RNNLM
->- Team: 김기동(발표자), 이주형(발표자), 최선웅(발표자)
+  >- [Video](https://youtu.be/5ZXjAGx7iQw), [Presentation](./presentations/season2-11조-순환신경망(RNN).pdf) 
+  >- Keywords: Keras, RNN, LSTM, GRU, RNNLM, CHAR-RNNLM
+  >- Team: 김기동(발표자), 이주형(발표자), 최선웅(발표자)
