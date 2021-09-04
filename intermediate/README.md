@@ -53,3 +53,7 @@
   > - [Paper](https://arxiv.org/abs/1807.02305), [Video](https://youtu.be/re5Uhi2DuoU), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_11조_NEUSUM.pdf)
   > - Keywords: NEUSUM, Extractive Summarization, document encoder, sentence extractor
   > - Team: 김사무엘(발표), 박새란, 이승언
+- 12: Adversarial Examples for Evaluating Reading Comprehension Systems
+  > - [Paper](https://arxiv.org/abs/1707.07328), [Video](https://www.youtube.com/watch?v=u-R_tUE6yys), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_12조_Adversarial Examples.pdf)
+  > - Keywords: Adversarial􀀁Sentences, Adversarial􀀁Examples, Adversarial􀀁evaluation, SQuAD, BiDAF, Match-LSTM
+  > - Team: 박병학(발표), 김주찬, 이창호
