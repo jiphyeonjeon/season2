@@ -65,7 +65,7 @@
   > * Keywords: Large-scale LM, Prompting Method
   > * Team: 김대웅(발표), 고현웅, 이윤재
 
-- 12: Industry Scale Semi-Supervised Learning for Natural Language Understanding
+- 13: Industry Scale Semi-Supervised Learning for Natural Language Understanding
 
   > * [Video](https://youtu.be/8guHo0X1xmY), [Presentation](./presentations/Season2-3조-Industry%20Scale%20Semi-Supervised%20Learning%20for%20Natural%20Language%20Understanding.pdf)
   > *  Keywords: Industry, Semi-Supervised Learning, Natural Language Understanding
