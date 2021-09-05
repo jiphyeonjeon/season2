@@ -58,3 +58,8 @@
   > * [Video](https://www.youtube.com/watch?v=RKkL1vgZcfU), [Presentation](./presentations/Season2-10조-ERNIE3.0.pdf)
   > * Keywords: Continual Multi-Paradigms Unified Pre-training Framework, Universal Representation Module, Task Specific Representation Module
   > * Team: 김은희(발표), 박한솔, 구혜연
+
+- 12: Industry Scale Semi-Supervised Learning for Natural Language Understanding
+  >- [Video](https://youtu.be/8guHo0X1xmY), [Presentation](./presentations/Season2-3조-Industry%20Scale%20Semi-Supervised%20Learning%20for%20Natural%20Language%20Understanding.pdf)
+  >- Keywords: Industry, Semi-Supervised Learning, Natural Language Understanding
+  >- Team: 이정훈, 박동주(발표), 이인환, 조소영
