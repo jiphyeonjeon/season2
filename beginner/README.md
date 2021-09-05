@@ -76,3 +76,9 @@
   >- [Video](https://youtu.be/5ZXjAGx7iQw), [Presentation](./presentations/season2-11조-순환신경망(RNN).pdf) 
   >- Keywords: Keras, RNN, LSTM, GRU, RNNLM, CHAR-RNNLM
   >- Team: 김기동(발표자), 이주형(발표자), 최선웅(발표자)
+
+- 13: 워드 임베딩 (Word Embedding) 6 ~ 12 챕터 
+
+  >- [Video](https://youtu.be/H-f0oHh5fPs), [Presentation](./presentations/season2-13조-워드_임베딩_후반부.pdf) 
+  >- Keywords: Word Embedding, FastText, Keras Embedding, ELMo, Embedding Visualization, Recommendation System using Document Embedding, Average Word Embedding
+  >- Team: 배수현(발표자), 변재경(발표자)
