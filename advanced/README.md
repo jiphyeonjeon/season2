@@ -58,3 +58,8 @@
   > * [Video](https://www.youtube.com/watch?v=RKkL1vgZcfU), [Presentation](./presentations/Season2-10조-ERNIE3.0.pdf)
   > * Keywords: Continual Multi-Paradigms Unified Pre-training Framework, Universal Representation Module, Task Specific Representation Module
   > * Team: 김은희(발표), 박한솔, 구혜연
+
+- 11: Large-scale LM에 대한 얕고 넓은 지식들 (part 2)
+  >- [Video](https://youtu.be/zbuD21YwLZI), [Presentation](https://github.com/jiphyeonjeon/season2/blob/main/advanced/presentations/Season2-1조-Large-sclae%20LM에%20대한%20얕고%20넓은%20지식들%20(part%201).pdf)
+  >- Keywords: Large-scale LM, Prompting Method, Prompt Engineering, Few-shot Learning
+  >- Team: 김대웅(발표), 고현웅, 이윤재
