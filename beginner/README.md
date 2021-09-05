@@ -25,7 +25,7 @@
 
 - 03: 언어 모델
 
-  >- Video, [Presentation](./presentations/season2-3조_언어모델.pdf)
+  >- Video(https://youtu.be/my__g5LeEOU), [Presentation](./presentations/season2-3조_언어모델.pdf)
   >- Keywords: Languagel Model, Statistical Languagel Model, SLM, n-gram
   >- Team: 최수진, 허영운, 조정원
 
