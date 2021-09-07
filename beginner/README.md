@@ -25,7 +25,7 @@
 
 - 03: 언어 모델
 
-  >- Video(https://youtu.be/my__g5LeEOU), [Presentation](./presentations/season2-3조_언어모델.pdf)
+  >- [Video](https://youtu.be/my__g5LeEOU), [Presentation](./presentations/season2-3조_언어모델.pdf)
   >- Keywords: Languagel Model, Statistical Languagel Model, SLM, n-gram
   >- Team: 최수진, 허영운, 조정원
 
@@ -36,7 +36,7 @@
   
 - 05: 벡터 유사도
 
-  >- Video, [Presentation](./presentations/season2-5조_벡터유사도.pdf)
+  >- [Video](https://youtu.be/aVjcZ7BnTxA), [Presentation](./presentations/season2-5조_벡터유사도.pdf)
   >- Keywords: Vector Similarity, Cosine Similarity, Euclidean distance
   >- Team: 조성철, 지현구, 박서영
 
@@ -64,7 +64,7 @@
   >- [Video](https://youtu.be/6GERl_6DYl8), [Presentation](./presentations/season2-9조-딥러닝개요_전반부.pdf) 
   >- Keywords: Perceptron, Activation function, Loss function, Optimizer, BackPropagation, Overfitting, Gradient Vanishing & Exploding
   >- Team: 금예은(발표자), 이제일(발표자)
- 
+
 - 10: 딥러닝 개요 후반부 6 ~ 10 챕터  
 
   >- [Video](https://youtu.be/ceNum507t-c), [Presentation](./presentations/season2-10조-딥러닝개요-후반부.pdf) 
