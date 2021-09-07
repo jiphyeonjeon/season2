@@ -64,7 +64,13 @@
   > * [Video](https://youtu.be/zbuD21YwLZI), [Presentation](https://github.com/jiphyeonjeon/season2/blob/main/advanced/presentations/Season2-1조-Large-sclae%20LM에%20대한%20얕고%20넓은%20지식들%20(part%201).pdf)
   > * Keywords: Large-scale LM, Prompting Method
   > * Team: 김대웅(발표), 고현웅, 이윤재
+  
+- 12: ACL 2021 Review
 
+  > * [Video](https://youtu.be/eSnzNtyiWGc), [Presentation](./presentations/Season2-2조-ACL2021_review.pdf)
+  > * Keywords: ACL, Vocabulary, VOLT, UnNatural Language Inference
+  >- Team: 김백수, 조주현
+  
 - 13: Industry Scale Semi-Supervised Learning for Natural Language Understanding
 
   > * [Video](https://youtu.be/8guHo0X1xmY), [Presentation](./presentations/Season2-3조-Industry%20Scale%20Semi-Supervised%20Learning%20for%20Natural%20Language%20Understanding.pdf)
