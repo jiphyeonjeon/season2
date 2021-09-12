@@ -14,7 +14,7 @@ Jiphyeonjeon Season 2
 [박은빈](https://github.com/42cosmos), 
 [양수영](https://github.com/aiaaua), 
 [이윤재](https://github.com/gityunjae), 
-[이정섭](), 
+[이정섭](https://github.com/js-lee-AI), 
 [정환석](https://github.com/jayden5744), 
 [진명훈](https://github.com/jinmang2)
 
