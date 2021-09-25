@@ -57,3 +57,7 @@
   > - [Paper](https://arxiv.org/abs/1707.07328), [Video](https://www.youtube.com/watch?v=u-R_tUE6yys), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급_12조_Adversarial Examples.pdf)
   > - Keywords: Adversarial􀀁Sentences, Adversarial􀀁Examples, Adversarial􀀁evaluation, SQuAD, BiDAF, Match-LSTM
   > - Team: 박병학(발표), 김주찬, 이창호
+- 14: Unsupervised Machine Translation Using Monolingual Corpora Only
+  > - [Paper](https://arxiv.org/abs/1711.00043), [Video](https://www.youtube.com/watch?v=6-fU_89Nj0w), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급반_14조_발표자료.pdf)
+  > - Keywords: Adversarial Training, Unsupervised Machine Trainslation, AutoEncoding, Seq2Seq
+  > - Team: 이원호(발표), 김택현, 양수영
