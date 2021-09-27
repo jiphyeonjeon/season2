@@ -61,3 +61,7 @@
   > - [Paper](https://arxiv.org/abs/1711.00043), [Video](https://www.youtube.com/watch?v=6-fU_89Nj0w), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전_중급반_14조_발표자료.pdf)
   > - Keywords: Adversarial Training, Unsupervised Machine Trainslation, AutoEncoding, Seq2Seq
   > - Team: 이원호(발표), 김택현, 양수영
+  - 15: RoBERTa: A Robustly Optimized BERT Pretraining Approach
+  > - [Paper](https://arxiv.org/abs/1907.11692), [Video](https://youtu.be/9vRzTwjtx9s), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_15조_RoBERTa_A_Robustly_Optimized_BERT_Pretraining_Approach)
+  > - Keywords: BERT, RoBERTa, transforner, Pre-training, Fine-tuning
+  > - Team: 김영재(발표), 김재희(발표), 왕대성(발표)
