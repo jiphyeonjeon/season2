@@ -76,3 +76,9 @@
   > * [Video](https://youtu.be/8guHo0X1xmY), [Presentation](./presentations/Season2-3조-Industry%20Scale%20Semi-Supervised%20Learning%20for%20Natural%20Language%20Understanding.pdf)
   > *  Keywords: Industry, Semi-Supervised Learning, Natural Language Understanding
   > * Team: 이정훈, 박동주(발표), 이인환, 조소영
+
+- 14: Adversarial Attack in NLP
+
+  > * [Video](https://youtu.be/AOX9d9ijtmI), [Presentation](./presentations/Season2-6조-Adversarial%20Attack%20in%20NLP.pdf)
+  > *  Keywords: Adversarial attack, Generative model, Natural Language Understanding
+  > * Team: 김한민, 이유경, 지승현(발표)
