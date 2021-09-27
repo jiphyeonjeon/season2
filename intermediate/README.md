@@ -64,4 +64,4 @@
 - 15: RoBERTa: A Robustly Optimized BERT Pretraining Approach
   > - [Paper](https://arxiv.org/abs/1907.11692), [Video](https://youtu.be/9vRzTwjtx9s), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_15조_RoBERTa_A_Robustly_Optimized_BERT_Pretraining_Approach.pdf)
   > - Keywords: BERT, RoBERTa, transforner, Pre-training, Fine-tuning
-  > - Team: 김영재(발표), 김재희(발표), 왕대성(발표)
+  > - Team: 김영재, 김재희, 왕대성 - 전원 발표
