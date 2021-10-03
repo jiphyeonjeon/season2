@@ -16,7 +16,7 @@
 
 - 03: TOD-BERT Pre-trained Natural Language Understanding for Task-Oriented Dialogue
   >- [Video](https://youtu.be/qGoE0naEuls), [Presentation](./presentations/Season2-3조-TOD-BERT.pdf)
-  >- Keywords: BERT, Tasl Oriented Doalogue
+  >- Keywords: BERT, Task Oriented Dialogue
   >- Team: 이정훈, 박동주, 이인환, 조소영
 
 - 04: Language ID in the Wild: Unexpected Challenges on the Path to a Thousand-Language Web Text Corpus
@@ -82,3 +82,9 @@
   > * [Video](https://youtu.be/AOX9d9ijtmI), [Presentation](./presentations/Season2-6조-Adversarial%20Attack%20in%20NLP.pdf)
   > *  Keywords: Adversarial attack, Generative model, Natural Language Understanding
   > * Team: 김한민, 이유경, 지승현(발표)
+
+- 15: GPT-2 Based End to End Task-Oriented Dialog System
+
+  > * [Video](https://youtu.be/t-H2lJbSTqE), [Presentation](./presentations/Season2-5조-GPT-2_Based_End_to_End_Task-Oriented_Dialogue_System.pdf)
+  > * Keywords: GPT-2, Task-Oriented Dialog system
+  > * Team: 김대규, 모윤호(발표), 원혜진
