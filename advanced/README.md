@@ -85,6 +85,6 @@
 
 - 15: GPT-2 Based Task-Oriented Dialogue System
 
-  > * [Video](https://youtu.be/t-H2lJbSTqE), [Presentation](./presentations/Season2-5조-GPT-2 Based Task-Oriented Dialogue System.pdf)
+  > * [Video](https://youtu.be/t-H2lJbSTqE), [Presentation](./presentations/Season2-5조-GPT-2_Based_Task-Oriented_Dialogue_System.pdf)
   > * Keywords: GPT-2, Task-Oriented Dialog system
   > * Team: 김대규, 모윤호(발표), 원혜진
