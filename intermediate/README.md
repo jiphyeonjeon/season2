@@ -63,5 +63,9 @@
   > - Team: 이원호(발표), 김택현, 양수영
 - 15: RoBERTa: A Robustly Optimized BERT Pretraining Approach
   > - [Paper](https://arxiv.org/abs/1907.11692), [Video](https://youtu.be/9vRzTwjtx9s), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_15조_RoBERTa_A_Robustly_Optimized_BERT_Pretraining_Approach.pdf)
-  > - Keywords: BERT, RoBERTa, transforner, Pre-training, Fine-tuning
+  > - Keywords: BERT, RoBERTa, transformer, Pre-training, Fine-tuning
   > - Team: 김영재, 김재희, 왕대성 - 전원 발표
+- 16: A Survey on Deep Learning for Named Entity Recognition
+  > - [Paper](https://arxiv.org/abs/1812.09449), [Video](https://www.youtube.com/watch?v=vdC-yibkn7Q), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_16_A_Survey_on_Deep_Learning_for_Named_Entity_Recognition.pdf)
+  > - Keywords: NER, CRF, LSTM, Neural Network, Encoder, Decoder
+  > - Team: 류명현(발표), 이수민(발표), 이아름
