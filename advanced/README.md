@@ -77,13 +77,18 @@
   > *  Keywords: Industry, Semi-Supervised Learning, Natural Language Understanding
   > * Team: 이정훈, 박동주(발표), 이인환, 조소영
 
-- 14: Adversarial Attack in NLP
+- 14: Finetuned Language Models Are Zero-Shot Learners
+  >- [Video](https://www.youtube.com/watch?v=4NXm34clErY), [Presentation](./presentations/Season2-4조-FINETUNED_LANGUAGE_MODELS_ARE_ZERO-SHOT_LEARNERS.pdf)
+  >- Keywords: FLAN, Zero-Shot, Finetuned Language Models, GPT-3
+  >- Team: 박소희, 김민현(발표), 김성환
+  
+- 15: Adversarial Attack in NLP
 
   > * [Video](https://youtu.be/AOX9d9ijtmI), [Presentation](./presentations/Season2-6조-Adversarial%20Attack%20in%20NLP.pdf)
   > *  Keywords: Adversarial attack, Generative model, Natural Language Understanding
   > * Team: 김한민, 이유경, 지승현(발표)
 
-- 15: GPT-2 Based End to End Task-Oriented Dialog System
+- 16: GPT-2 Based End to End Task-Oriented Dialog System
 
   > * [Video](https://youtu.be/t-H2lJbSTqE), [Presentation](./presentations/Season2-5조-GPT-2_Based_End_to_End_Task-Oriented_Dialogue_System.pdf)
   > * Keywords: GPT-2, Task-Oriented Dialog system
