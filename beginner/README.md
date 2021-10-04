@@ -82,3 +82,10 @@
   >- [Video](https://youtu.be/H-f0oHh5fPs), [Presentation](./presentations/season2-13조-워드_임베딩_후반부.pdf) 
   >- Keywords: Word Embedding, FastText, Keras Embedding, ELMo, Embedding Visualization, Recommendation System using Document Embedding, Average Word Embedding
   >- Team: 배수현(발표자), 변재경(발표자)
+  
+- 16: 태깅 작업 (Tagging Task) 1 ~ 7 챕터
+
+  >- [Video](https://www.youtube.com/watch?v=In-Y2jHjgnc), [Presentation](./presentations/season2-16조-테깅작업.pdf) 
+  >- Keywords: Tagging Task, Bidirectional RNN, Keras, Sequence Labeling, LSTM, CRF, Named Entity Recognition, BiLSTM-CRF
+  >- Team: 손한기(발표자), 김경리(발표자), 이동민(발표자)
+
