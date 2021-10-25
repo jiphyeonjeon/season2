@@ -89,3 +89,9 @@
   >- Keywords: Tagging Task, Bidirectional RNN, Keras, Sequence Labeling, LSTM, CRF, Named Entity Recognition, BiLSTM-CRF
   >- Team: 손한기(발표자), 김경리(발표자), 이동민(발표자)
 
+- 19: 어텐션 메커니즘 (Attention Mechanism)
+
+  >- [Video](https://youtu.be/772LlwrXEok), [Presentation](./presentations/season2-19조-어텐션메커니즘.pdf) 
+  >- Keywords: Attention Mechanism, Attention score Function, Dot-Product Attention, Bahdanau Attention, Keras, BiLSTM, IMDB
+  >- Team: 김두진(발표자), 박경민(발표자), 유병관(발표자)
+
