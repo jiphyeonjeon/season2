@@ -99,3 +99,9 @@
   > * [Video](https://youtu.be/dFjndpNLgd0), [Presentation](./presentations/Season2-7조-A%20Brief%20Introduction%20to%20the%20Dynamic%20Benchmark.pdf)
   > * Keywords: Benchmark, Human-Model in the loop
   > * Team: 이창희(발표), 하헌진, 현지웅
+
+- 18 : COOT: Cooperative Hierarchical Transformer for Video-Text
+
+  > * [Video](https://youtu.be/bMERDhQK9Y8), [Presentation](./presentations/Season2-8조-COOT.pdf)
+  > * Keywords: Multimodal, Hierarchical Transformer, Video-Text Representation
+  > * Team: 민지웅, 이나연, 임정환
