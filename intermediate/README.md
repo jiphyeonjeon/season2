@@ -71,5 +71,5 @@
   > - Team: 류명현(발표), 이수민(발표), 이아름
 - 18: Graph Attention Networks(GAT)
   > - [Paper](https://arxiv.org/abs/1710.10903), [Video](https://www.youtube.com/watch?v=FPIUdRGvu80), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_16_A_Survey_on_Deep_Learning_for_Named_Entity_Recognition.pdf)
-  > - Keywords: NER, CRF, LSTM, Neural Network, Encoder, Decoder
-  > - Team: 류명현(발표), 이수민(발표), 이아름
+  > - Keywords: Attention, Graph
+  > - Team: 김남균(발표), 김명환, 김지성
