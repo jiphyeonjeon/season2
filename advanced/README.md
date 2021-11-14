@@ -99,3 +99,9 @@
   > * [Video](https://youtu.be/dFjndpNLgd0), [Presentation](./presentations/Season2-7조-A%20Brief%20Introduction%20to%20the%20Dynamic%20Benchmark.pdf)
   > * Keywords: Benchmark, Human-Model in the loop
   > * Team: 이창희(발표), 하헌진, 현지웅
+
+- 20: APPROXIMATE NEAREST NEIGHBOR NEGATIVE CONTRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL
+
+  > * [Video](https://youtu.be/GKRgMy0PVF4), [Presentation](https://github.com/HyeyeonKoo/season2/blob/main/advanced/presentations/Season2-10%EC%A1%B0-ANCE.pptx)
+  > * Keywords: Dense Retrieval, ANN index
+  > * Team: 구혜연(발표), 김은희, 박한솔
