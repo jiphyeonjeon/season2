@@ -88,4 +88,16 @@
   >- [Video](https://www.youtube.com/watch?v=In-Y2jHjgnc), [Presentation](./presentations/season2-16조-테깅작업.pdf) 
   >- Keywords: Tagging Task, Bidirectional RNN, Keras, Sequence Labeling, LSTM, CRF, Named Entity Recognition, BiLSTM-CRF
   >- Team: 손한기(발표자), 김경리(발표자), 이동민(발표자)
+  
+  - 20: 트랜스포머 (Transformer)
+
+  >- [Video](https://youtu.be/7xlusHKocqo), [Presentation](./presentations/season2_20조_트랜스포머_pdf) 
+  >- Keywords: Transformer, attention is all you need, self-attention, masked multi-head attention, positional encoding, seq2seq, encoder, decoder, Feed Forward Network, residual connection, layer normalization
+  >- Team: 박상효(발표자), 은승현(발표자), 한다솜(발표자)
+
+- 19: 어텐션 메커니즘 (Attention Mechanism)
+
+  >- [Video](https://youtu.be/772LlwrXEok), [Presentation](./presentations/season2-19조-어텐션메커니즘.pdf) 
+  >- Keywords: Attention Mechanism, Attention score Function, Dot-Product Attention, Bahdanau Attention, Keras, BiLSTM, IMDB
+  >- Team: 김두진(발표자), 박경민(발표자), 유병관(발표자)
 

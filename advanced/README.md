@@ -105,3 +105,8 @@
   > * [Video](https://youtu.be/bMERDhQK9Y8), [Presentation](./presentations/Season2-8조-COOT.pdf)
   > * Keywords: Multimodal, Hierarchical Transformer, Video-Text Representation
   > * Team: 민지웅, 이나연, 임정환
+- 20: APPROXIMATE NEAREST NEIGHBOR NEGATIVE CONTRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL
+
+  > * [Video](https://youtu.be/GKRgMy0PVF4), [Presentation](https://github.com/HyeyeonKoo/season2/blob/main/advanced/presentations/Season2-10%EC%A1%B0-ANCE.pptx)
+  > * Keywords: Dense Retrieval, ANN index
+  > * Team: 구혜연(발표), 김은희, 박한솔
