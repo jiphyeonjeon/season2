@@ -95,3 +95,9 @@
   >- Keywords: Transformer, attention is all you need, self-attention, masked multi-head attention, positional encoding, seq2seq, encoder, decoder, Feed Forward Network, residual connection, layer normalization
   >- Team: 박상효(발표자), 은승현(발표자), 한다솜(발표자)
 
+- 19: 어텐션 메커니즘 (Attention Mechanism)
+
+  >- [Video](https://youtu.be/772LlwrXEok), [Presentation](./presentations/season2-19조-어텐션메커니즘.pdf) 
+  >- Keywords: Attention Mechanism, Attention score Function, Dot-Product Attention, Bahdanau Attention, Keras, BiLSTM, IMDB
+  >- Team: 김두진(발표자), 박경민(발표자), 유병관(발표자)
+
