@@ -74,6 +74,6 @@
   > - Keywords: Attention, Graph
   > - Team: 김남균(발표), 김명환, 김지성
 - 19: Universal Sentence Encoder
-  > - [Paper](https://arxiv.org/abs/1803.11175), [Video](https://www.youtube.com/watch?v=zKi1kxdLvSg), [Slides](https://github.com/upskyy/season2/blob/intermediate_19/intermediate/presentations/%EC%A7%91%ED%98%84%EC%A0%842%EA%B8%B0_%EC%A4%91%EA%B8%89%EB%B0%98_19%EC%A1%B0_Universal_Sentence_Encoder.pdf)
+  > - [Paper](https://arxiv.org/abs/1803.11175), [Video](https://www.youtube.com/watch?v=zKi1kxdLvSg), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_19조_Universal_Sentence_Encoder.pdf)
   > - Keywords: Sentence Embedding, Transfer Learning
   > - Team: 김진환(발표), 우연수(발표), 하상천(발표), 하성진(발표)
