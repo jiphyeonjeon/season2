@@ -73,3 +73,7 @@
   > - [Paper](https://arxiv.org/abs/1710.10903), [Video](https://www.youtube.com/watch?v=FPIUdRGvu80), [Slides](https://github.com/hwan17/season2/files/7492116/GAT-18.pdf)
   > - Keywords: Attention, Graph
   > - Team: 김남균(발표), 김명환, 김지성
+- 19: Universal Sentence Encoder
+  > - [Paper](https://arxiv.org/abs/1803.11175), [Video](https://www.youtube.com/watch?v=zKi1kxdLvSg), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_19조_Universal_Sentence_Encoder.pdf)
+  > - Keywords: Sentence Embedding, Transfer Learning
+  > - Team: 김진환(발표), 우연수(발표), 하상천(발표), 하성진(발표)
