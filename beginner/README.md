@@ -101,3 +101,8 @@
   >- Keywords: Attention Mechanism, Attention score Function, Dot-Product Attention, Bahdanau Attention, Keras, BiLSTM, IMDB
   >- Team: 김두진(발표자), 박경민(발표자), 유병관(발표자)
 
+- 23: 질의응답 (Question & Answering, QA)
+
+  >- [Video](https://youtu.be/aH5-gbBRUX0), [Presentation](./presentations/season2-23조_질의응답(QA).pdf) 
+  >- Keywords: RNN, Question&Answering model, Memory network, End-to-End Memory network, 
+  >- Team: 박동호(발표자), 윤재두(발표자), 서혜영(발표자)
