@@ -101,6 +101,12 @@
   >- Keywords: Attention Mechanism, Attention score Function, Dot-Product Attention, Bahdanau Attention, Keras, BiLSTM, IMDB
   >- Team: 김두진(발표자), 박경민(발표자), 유병관(발표자)
 
+- 22: 텍스트 요약 (Text Summarization)
+
+  >- [Video](https://www.youtube.com/watch?v=XG-weJ06bOQ), [Presentation](./presentations/season2-22조-Summarization.pdf) 
+  >- Keywords: Text Rank, Text summarization, T5
+  >- Team: 도정민(발표자), 조희준(발표자), 김산
+
 - 23: 질의응답 (Question & Answering, QA)
 
   >- [Video](https://youtu.be/aH5-gbBRUX0), [Presentation](./presentations/season2-23조_질의응답(QA).pdf) 
