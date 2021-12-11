@@ -77,3 +77,7 @@
   > - [Paper](https://arxiv.org/abs/1803.11175), [Video](https://www.youtube.com/watch?v=zKi1kxdLvSg), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_19조_Universal_Sentence_Encoder.pdf)
   > - Keywords: Sentence Embedding, Transfer Learning
   > - Team: 김진환(발표), 우연수(발표), 하상천(발표), 하성진(발표)
+- 20: Text Summarization with Pretrained Encoders
+  > - [Paper](https://arxiv.org/abs/1908.08345), [Video](https://www.youtube.com/watch?v=JxzSrEA6x-o), [Slides](https://github.com/jiphyeonjeon/season2/blob/main/intermediate/presentations/집현전2기_중급반_20조_Bertsum.pdf)
+  > - Keywords: Text summarization, Bertsum, Bert
+  > - Team: 강민지(발표), 강민구(발표)
